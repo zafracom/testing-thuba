@@ -1,1 +1,1 @@
-# testing-thuba
+# thuba.id
